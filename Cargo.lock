@@ -2102,7 +2102,7 @@ dependencies = [
  "linregress",
  "log",
  "parity-scale-codec",
- "paste 1.0.6",
+ "paste 1.0.9",
  "scale-info",
  "serde",
  "sp-api",
@@ -2263,7 +2263,7 @@ dependencies = [
  "once_cell",
  "parity-scale-codec",
  "parity-util-mem",
- "paste 1.0.6",
+ "paste 1.0.9",
  "pretty_assertions",
  "scale-info",
  "serde",
@@ -4511,7 +4511,7 @@ checksum = "25af9cf0dc55498b7bd94a1508af7a78706aa0ab715a73c5169273e03c84845e"
 dependencies = [
  "anyhow",
  "byteorder",
- "paste 1.0.6",
+ "paste 1.0.9",
  "thiserror",
 ]
 
@@ -6713,9 +6713,9 @@ dependencies = [
 
 [[package]]
 name = "paste"
-version = "1.0.6"
+version = "1.0.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0744126afe1a6dd7f394cb50a716dbe086cb06e255e53d8d0185d82828358fb5"
+checksum = "b1de2e551fb905ac83f73f7aedf2f0cb4a0da7e35efa24a202a936269f1f18e1"
 
 [[package]]
 name = "paste-impl"
@@ -8397,7 +8397,7 @@ dependencies = [
  "num_cpus",
  "parity-scale-codec",
  "parking_lot 0.12.0",
- "paste 1.0.6",
+ "paste 1.0.9",
  "regex",
  "sc-executor-common",
  "sc-executor-wasmi",
@@ -8466,7 +8466,7 @@ dependencies = [
  "log",
  "parity-scale-codec",
  "parity-wasm 0.42.2",
- "paste 1.0.6",
+ "paste 1.0.9",
  "sc-allocator",
  "sc-executor-common",
  "sc-runtime-test",
@@ -8884,7 +8884,7 @@ dependencies = [
 name = "sc-runtime-test"
 version = "2.0.0"
 dependencies = [
- "paste 1.0.6",
+ "paste 1.0.9",
  "sp-core",
  "sp-io",
  "sp-runtime",
@@ -9530,7 +9530,7 @@ dependencies = [
  "approx",
  "num-complex",
  "num-traits",
- "paste 1.0.6",
+ "paste 1.0.9",
 ]
 
 [[package]]
@@ -10123,7 +10123,7 @@ dependencies = [
  "log",
  "parity-scale-codec",
  "parity-util-mem",
- "paste 1.0.6",
+ "paste 1.0.9",
  "rand 0.7.3",
  "scale-info",
  "serde",
@@ -11921,7 +11921,7 @@ dependencies = [
  "log",
  "object 0.27.1",
  "once_cell",
- "paste 1.0.6",
+ "paste 1.0.9",
  "psm",
  "rayon",
  "region 2.2.0",
